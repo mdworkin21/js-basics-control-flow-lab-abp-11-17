@@ -21,9 +21,9 @@ function ternaryCheckCity(city){
 
 }
 
-/*
+
 function switchOnCharmFromTip(tip){
- 
+
   let reply;
 
   switch(tip){
@@ -45,4 +45,4 @@ function switchOnCharmFromTip(tip){
 
     } return reply
 }
-*/
+
