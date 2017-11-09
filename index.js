@@ -38,11 +38,10 @@ function switchOnCharmFromTip(tip){
 
       break;
 
-    case 'thanks for everything'
+    case 'thanks for everything':
       reply = "Bye."
 
       break;
 
     } return reply
 }
-
