@@ -14,11 +14,15 @@ function scuberGreetingForFeet(d){
 
 function ternaryCheckCity(city){
 
-  var city = ("NYC" === true)? "Ok, sounds good.": "No go.";
+  var city;
+
+  ("NYC" === true)? "Ok, sounds good.": "No go.";
   return city
 }
 
 function switchOnCharmFromTip(tip){
+
+  let response = 
 
   switch(tip){
 
