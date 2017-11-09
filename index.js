@@ -16,7 +16,7 @@ function ternaryCheckCity(city){
 
   const check = "NYC";
 
-  (city === true) ? "Ok, sounds good.": "No go.";
+  (city === check) ? "Ok, sounds good.": "No go.";
 
 }
 
