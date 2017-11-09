@@ -16,13 +16,13 @@ function ternaryCheckCity(city){
 
   var city;
 
-  ("NYC" === true)? "Ok, sounds good.": "No go.";
+  city = ("NYC" === true)? "Ok, sounds good.": "No go.";
   return city
 }
 
 function switchOnCharmFromTip(tip){
 
-  let response = 
+  let response =
 
   switch(tip){
 
