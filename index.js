@@ -16,3 +16,7 @@ function ternaryCheckCity(city){
 
    (city === true)? "Ok, sounds good.": "No go.";
 }
+
+function switchOnCharmFromTip(){
+  
+}
