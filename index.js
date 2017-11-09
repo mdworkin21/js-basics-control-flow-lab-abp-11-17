@@ -12,6 +12,7 @@ function scuberGreetingForFeet(d){
   }
 }
 
+/*
 function ternaryCheckCity(city){
 
   //const city = "NYC";
